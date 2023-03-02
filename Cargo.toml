@@ -2,6 +2,14 @@
 name = "fuzzylogic"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Provides operations for fuzzy set theory"
+documentation = "https://docs.rs/fuzzylogic"
+repository = "https://github.com/weirdsmiley/fuzzylogic/"
+readme = "README.md"
+
+keywords = ["fuzzy", "logic"]
+categories = ["mathematics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
