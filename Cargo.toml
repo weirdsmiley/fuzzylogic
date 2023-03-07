@@ -1,6 +1,6 @@
 [package]
 name = "fuzzylogic"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 license = "MIT"
 description = "Provides operations for fuzzy set theory"
@@ -14,3 +14,4 @@ categories = ["mathematics"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+# num = "0.4.0"
